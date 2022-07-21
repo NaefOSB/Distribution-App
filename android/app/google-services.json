@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216553255408",
+    "project_id": "sunlight-c7344",
+    "storage_bucket": "sunlight-c7344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216553255408:android:ad934050870d54875eed35",
+        "android_client_info": {
+          "package_name": "com.novelsoft.sunlight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216553255408-cr1il5oc96jcm6d4hkorbue7ai8o60ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzq5NqllstM_GFzQd2wucyu-mYgx10pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216553255408-cr1il5oc96jcm6d4hkorbue7ai8o60ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
